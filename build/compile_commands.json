@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/mnt/c/Users/Wesle/OneDrive/Desktop/CS/Semester 2/CS 6850/src/Concurrent-Linked-Lists/build",
+  "command": "/bin/g++-9   -I\"/mnt/c/Users/Wesle/OneDrive/Desktop/CS/Semester 2/CS 6850/src/Concurrent-Linked-Lists/include\"  -g   -pthread -std=gnu++17 -o CMakeFiles/main.dir/src/main.cpp.o -c \"/mnt/c/Users/Wesle/OneDrive/Desktop/CS/Semester 2/CS 6850/src/Concurrent-Linked-Lists/src/main.cpp\"",
+  "file": "/mnt/c/Users/Wesle/OneDrive/Desktop/CS/Semester 2/CS 6850/src/Concurrent-Linked-Lists/src/main.cpp"
+}
+]

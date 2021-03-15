@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/Wesle/OneDrive/Desktop/CS/Semester 2/CS 6850/src/Concurrent-Linked-Lists/src/LinkedListAtomic.h
+iostream
+-
+cstdio
+-
+atomic
+-
+
+/mnt/c/Users/Wesle/OneDrive/Desktop/CS/Semester 2/CS 6850/src/Concurrent-Linked-Lists/src/LinkedListMutex.h
+iostream
+-
+
+/mnt/c/Users/Wesle/OneDrive/Desktop/CS/Semester 2/CS 6850/src/Concurrent-Linked-Lists/src/main.cpp
+cstdio
+-
+mutex
+-
+shared_mutex
+-
+thread
+-
+inttypes.h
+-
+iostream
+-
+functional
+-
+chrono
+-
+atomic
+-
+LinkedListMutex.h
+/mnt/c/Users/Wesle/OneDrive/Desktop/CS/Semester 2/CS 6850/src/Concurrent-Linked-Lists/src/LinkedListMutex.h
+LinkedListAtomic.h
+/mnt/c/Users/Wesle/OneDrive/Desktop/CS/Semester 2/CS 6850/src/Concurrent-Linked-Lists/src/LinkedListAtomic.h
+string.h
+-
+
